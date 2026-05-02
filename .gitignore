@@ -1,0 +1,14 @@
+all_files_dump/
+all_files_dump_flat/
+all_files_dump_flat.zip
+MSRS/
+exp/
+__pycache__/
+**/__pycache__/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+PPT_DATA_RESULTS.md
+PPT_FINAL_PROMPT.md
+PPT_PREP.md
+PPT_SLIDES.md
+PPT_PAGE_GUIDE.md
